@@ -8,7 +8,7 @@ Ejecutamos el comando como administrador en una terminal:
 Este nos descarga la imagen para poder utilizarla.
 
 Para poder ejecutar la imagen y acceder a los puertos de forma local recomendamos utilizar el siguiente comando:
-"docker run -d -it -v /var/www/html/:<directorio de su carpeta> -p 4200:80 dieggox/prueba"
+"docker run -d -it -v /var/www/html/:"directoriodesucarpeta" -p 4200:80 dieggox/prueba"
 
 El puerto 4200 puede cambiarse por los deseados por el usuario, sin embargo los del contenedor no.
 
