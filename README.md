@@ -1,5 +1,6 @@
 # EJECUCIÓN DE LA IMAGEN
 Link de DockerHub: https://hub.docker.com/r/dieggox/prueba
+Link de la aplicacion de angular: https://github.com/xDieGGox/bienvenido.git
 La imagen nos sirve para poder desplegar un sistema de angular en una imagen de ubuntu con node
 
 Ejecutamos el comando como administrador en una terminal:
