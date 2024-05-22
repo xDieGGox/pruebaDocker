@@ -15,4 +15,6 @@ El puerto 4200 puede cambiarse por los deseados por el usuario, sin embargo los 
 Finalmente, en nuestro navegador de forma local, abrimos ambos puertos, el 4200 para ver la aplicacion de angular en funcionamiento.
 
 Al final se desplegara la aplicación de la siguiente manera:
+
+
 [![JiDmx6v.md.png](https://iili.io/JiDmx6v.md.png)](https://freeimage.host/i/JiDmx6v)
